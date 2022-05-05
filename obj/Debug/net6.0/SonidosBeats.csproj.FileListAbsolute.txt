@@ -1,0 +1,15 @@
+C:\Users\ASUS\Documents\ProyectosGitHub\SonidosBeats\bin\Debug\net6.0\SonidosBeats.exe
+C:\Users\ASUS\Documents\ProyectosGitHub\SonidosBeats\bin\Debug\net6.0\SonidosBeats.deps.json
+C:\Users\ASUS\Documents\ProyectosGitHub\SonidosBeats\bin\Debug\net6.0\SonidosBeats.runtimeconfig.json
+C:\Users\ASUS\Documents\ProyectosGitHub\SonidosBeats\bin\Debug\net6.0\SonidosBeats.dll
+C:\Users\ASUS\Documents\ProyectosGitHub\SonidosBeats\bin\Debug\net6.0\SonidosBeats.pdb
+C:\Users\ASUS\Documents\ProyectosGitHub\SonidosBeats\obj\Debug\net6.0\SonidosBeats.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\ProyectosGitHub\SonidosBeats\obj\Debug\net6.0\SonidosBeats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\ProyectosGitHub\SonidosBeats\obj\Debug\net6.0\SonidosBeats.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\ProyectosGitHub\SonidosBeats\obj\Debug\net6.0\SonidosBeats.AssemblyInfo.cs
+C:\Users\ASUS\Documents\ProyectosGitHub\SonidosBeats\obj\Debug\net6.0\SonidosBeats.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\ProyectosGitHub\SonidosBeats\obj\Debug\net6.0\SonidosBeats.dll
+C:\Users\ASUS\Documents\ProyectosGitHub\SonidosBeats\obj\Debug\net6.0\refint\SonidosBeats.dll
+C:\Users\ASUS\Documents\ProyectosGitHub\SonidosBeats\obj\Debug\net6.0\SonidosBeats.pdb
+C:\Users\ASUS\Documents\ProyectosGitHub\SonidosBeats\obj\Debug\net6.0\SonidosBeats.genruntimeconfig.cache
+C:\Users\ASUS\Documents\ProyectosGitHub\SonidosBeats\obj\Debug\net6.0\ref\SonidosBeats.dll
